@@ -1,0 +1,14 @@
+Ejercicios
+CONSOLA
+1-Realizar un ejercicio utilizando hilos diferentes que muestren 2 mozos preparan sándwich alternandose
+2.-Imprimir infinitamente 2 caracteres utilizando 2 hilos
+3.-imprimir con un hilo los números positivos del 1 al 50 y con otro hilo imprimir los números negativos del -1 al  -50
+4.-Imprimir con un hilo del 1 al 50 y con otro hilo de 50 al 1 
+5.-Imprimir con un hilo los números pares entre 1 al 50 y con otro hilo los impares del 1 al 50
+
+FORMULARIOS
+1.-copiar el texto de un label a un cuadro de texto utilizando un hilo diferente al principal
+2.-Utilizando 3 hilos , coloque imágenes en 3 picture box 
+3.-Utilizando hilos , al presionar un botón imprima los números negativos en un listbox menores a -50 y en otro listbox los postivos menores a 50
+4.-Utilizando hilos imprima en un listbox los números primos entre el 1 al 50
+5.-Utilizando hilos imprima en un listbox los números pares entre 1 y 50 y en otro  los impares 
